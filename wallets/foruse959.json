@@ -1,0 +1,18 @@
+{
+  "github": "foruse959",
+  "team": "MINT",
+  "wallets": [
+    {
+      "role": "main",
+      "address": "0x986765d1e39D97f494eB2427bcC4D79b46adb15e"
+    },
+    {
+      "role": "team_member_1",
+      "address": "0x7481a9928Ff4339a1B8c5D14B69c2724C0919E65"
+    },
+    {
+      "role": "team_member_2",
+      "address": "0x1486AdA21446Dc19049fe1369CB6A388C4314feC"
+    }
+  ]
+}
